@@ -13,3 +13,9 @@ var isPalindrome = function (x) {
   }
   return true;
 };
+
+var isPalindrome = function(x) {
+  if (x < 0) return false;
+  // 利用 + 將字串轉成數字
+  return +String(x).split('').reverse().join('') === x;
+};
