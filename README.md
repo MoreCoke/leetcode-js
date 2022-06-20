@@ -11,3 +11,4 @@
 | 4 | [412. Fizz Buzz](https://leetcode.com/problems/fizz-buzz/)| [#](https://github.com/MoreCoke/leetcode-js/blob/main/problems/412-fizz-buzz.js) | Easy |
 | 5 | [509. Fibonacci Number](https://leetcode.com/problems/fibonacci-number/)| [#](https://github.com/MoreCoke/leetcode-js/blob/main/problems/509-fibonacci-number.js) | Easy |
 | 6 | [13. Roman to Integer](https://leetcode.com/problems/roman-to-integer/)| [#](https://github.com/MoreCoke/leetcode-js/blob/main/problems/13-roman-to-integer.js) | Easy |
+| 7 | [605. Can Place Flowers](https://leetcode.com/problems/can-place-flowers/)| [#](https://github.com/MoreCoke/leetcode-js/blob/main/problems/605-can-place-flowers.js) | Easy |
