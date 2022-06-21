@@ -12,3 +12,5 @@
 | 5 | [509. Fibonacci Number](https://leetcode.com/problems/fibonacci-number/)| [#](https://github.com/MoreCoke/leetcode-js/blob/main/problems/509-fibonacci-number.js) | Easy |
 | 6 | [13. Roman to Integer](https://leetcode.com/problems/roman-to-integer/)| [#](https://github.com/MoreCoke/leetcode-js/blob/main/problems/13-roman-to-integer.js) | Easy |
 | 7 | [605. Can Place Flowers](https://leetcode.com/problems/can-place-flowers/)| [#](https://github.com/MoreCoke/leetcode-js/blob/main/problems/605-can-place-flowers.js) | Easy |
+| 8 | [14. Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)| [#](https://github.com/MoreCoke/leetcode-js/blob/main/problems/14-longest-common-prefix.js) | Easy |
+| 9 | [27. Remove Element](https://leetcode.com/problems/remove-element/)| [#](https://github.com/MoreCoke/leetcode-js/blob/main/problems/27-remove-element.js) | Easy |
