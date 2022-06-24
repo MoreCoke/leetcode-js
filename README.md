@@ -15,3 +15,4 @@
 | 8 | [14. Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)| [#](https://github.com/MoreCoke/leetcode-js/blob/main/problems/14-longest-common-prefix.js) | Easy | :white_check_mark: |
 | 9 | [27. Remove Element](https://leetcode.com/problems/remove-element/)| [#](https://github.com/MoreCoke/leetcode-js/blob/main/problems/27-remove-element.js) | Easy | :white_check_mark: |
 | 10 | [21. Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)| [#](https://github.com/MoreCoke/leetcode-js/blob/main/problems/21-merge-two-sorted-lists.js) | Easy | :white_square_button: |
+| 11 | [35. Search Insert Position](https://leetcode.com/problems/search-insert-position/)| [#](https://github.com/MoreCoke/leetcode-js/blob/main/problems/35-search-insert-position.js) | Easy | :white_check_mark: |
